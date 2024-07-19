@@ -10,4 +10,4 @@
 9. Buffer overflow Exploit and mitigation demonstration
 10. Cryptographic hash function implementation and analysis
 
-Thank me later!
+Thank me later after you join "OPERATION(SYSTEM)"!
